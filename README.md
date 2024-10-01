@@ -4,7 +4,7 @@ Welcome to my **Python-100-Project** repository! This repository is dedicated to
 
 ## 🚀 Current Progress: 67/100
 
-I have completed 41 projects out of the planned 100. You can browse through the completed projects in the repository.
+I have completed 67 projects out of the planned 100. You can browse through the completed projects in the repository.
 
 ## 📝 Notable Completed Projects:
 
