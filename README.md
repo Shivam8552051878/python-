@@ -6,6 +6,7 @@ This repository contains all my Python-related work, showcasing projects and scr
 ## 🚀 Key Projects
 
 - **100 Python Projects Challenge**: A challenge to create 100 Python projects (41 completed so far). Includes a variety of apps, games, utilities, and more.
+- **Ethical Hacking**: Project using libraries scipy for doing various ethical hacking task like changing mack address etc.
 - **Data Analysis**: Projects using libraries like `pandas` and `matplotlib` for data analysis and visualization.
 - **Web Development**: Flask and Django-based projects, including a personal portfolio and blog.
 - **Automation**: Python scripts to automate tasks like web scraping and file handling.
