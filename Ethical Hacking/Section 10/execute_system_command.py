@@ -1,0 +1,3 @@
+import subprocess
+command = "dir"
+subprocess.Popen(command, shell=True)

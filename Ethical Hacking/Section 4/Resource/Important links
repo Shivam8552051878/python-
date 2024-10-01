@@ -1,0 +1,4 @@
+packet sniffing more = https://scapy.readthedocs.io/en/latest/extending.html
+scapy-http = https://github.com/invernizzi/scapy-http
+biff = https://biot.com/capstats/bpf.html
+testing link = http://testphp.vulnweb.com/login.php
